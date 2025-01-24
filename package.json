@@ -1,0 +1,15 @@
+{
+  "name": "unthinkable_items",
+  "version": "1.0.0",
+  "description": "This project showcases a list of hilariously weird and unnecessary items people have purchased. The platform allows users to explore a static collection of crazy gadgets, complete with descriptions and humorous insights into why these items exist. The goal is to create a fun and interactive experience that also demonstrates foundational skills in full-stack web development.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Blessing Joshua",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
