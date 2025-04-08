@@ -5,7 +5,14 @@ meta {
 }
 
 put {
-  url: http://localhost:3000/items/
-  body: none
+  url: http://localhost:3000/api/items/67f514dfc89cf332e51ff8e5
+  body: json
   auth: none
+}
+
+body:json {
+  {
+    "name": "Pizza Blanket",
+    "price": "3,599"
+  }
 }
