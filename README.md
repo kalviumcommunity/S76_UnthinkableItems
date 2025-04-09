@@ -1,5 +1,7 @@
 # S76_UnthinkableItems
-Project Deployed link - https://unthinkableitems.onrender.com/
+Project Deployed link - https://unthinkableitems.onrender.com
+
+Frontend Deployed link - https://unthinkables.pages.dev/
 
 ## Project Title:
 # Weird and Crazy Things People Bought
