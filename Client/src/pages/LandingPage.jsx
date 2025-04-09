@@ -7,7 +7,7 @@ import ProductGrid from '../components/ProductGrid'
 import ProductOfTheDay from '../components/ProductOfTheDay'
 import Footer from '../components/Footer'
 
-function App() {
+function LandingPage() {
 
   return (
     <div>
@@ -22,4 +22,4 @@ function App() {
   )
 }
 
-export default App
+export default LandingPage
