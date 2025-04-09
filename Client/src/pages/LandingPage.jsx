@@ -8,11 +8,10 @@ import ProductOfTheDay from '../components/ProductOfTheDay'
 import Footer from '../components/Footer'
 
 function App() {
-  const [darkMode, setDarkMode] = useState(false);
 
   return (
-    <div className={`${darkMode ? 'bg-gray-900 text-white' : 'bg-gray-50 text-gray-900'}`}>
-      <Navbar darkMode={darkMode} setDarkMode={setDarkMode} />
+    <div>
+      <Navbar />
       <Hero />
       <ProductOfTheDay />
       <CategoryFilter />
