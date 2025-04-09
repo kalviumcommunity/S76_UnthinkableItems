@@ -5,7 +5,7 @@ function Navbar() {
         <div className="flex justify-between h-16">
           <div className="flex items-center">
             <div className="flex-shrink-0">
-              <span className="text-gray-900 font-bold text-2xl">WeirdBuys</span>
+              <span className="text-gray-900 font-bold text-2xl">Unthinkables</span>
             </div>
           </div>
 
